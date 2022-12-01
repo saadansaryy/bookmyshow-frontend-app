@@ -16,7 +16,7 @@ function SignIn() {
   //Endpoint:Fetch API POST request using async/await
   const SignInData = async (e) => {
     e.preventDefault();
-    const res = await fetch("/users/signin", {
+    const res = await fetch("https://bms-backend.onrender.com/users/signin", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

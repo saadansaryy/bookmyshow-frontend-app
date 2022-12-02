@@ -3,18 +3,18 @@
 </div>
 <div align="center">
 <h2>Hello ! <h2>
-  <p>Saad Ansari here !</p> 
+  <p> Md Ashif Reza !</p> 
 </div>
 
 <!-- Links to social profiles  -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kaustubh-sule-b46303229/">
+  <a href="https://www.linkedin.com/in/md-ashif-reza-55b217201//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtu.be/Tnof6r5ZSyc">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/KaustubhSule">
+  <a href="https://twitter.com/Ashif_rez">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -26,9 +26,9 @@ Clone the repository on your local machine with the command below in your termin
 <!-- Insert repo link below -->
 
 ```bash
-https://
+https://https://github.com/mdashifreza/BMSClient.git
 
-cd my-app
+cd BMSClient
 ```
 
 Install dependencies (if you are using yarn then do with that)
@@ -44,19 +44,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
   <h2>Project Description</h2>
   <b>Project Name : BookMyShow </b>
-  <a href =" "/>
+  <a href ="https://bookmyshow-project-frontend.vercel.app/"/>
   Live Here
   </a>
   <br>
-  <b>API Documentation </b>
-  <a href ="https://documenter.getpostman.com/view/21949842/2s8YmSs1K2#503fe0a9-50d5-4f27-8feb-0dcda0e15345"/>
-  Click Here
-  </a>
   <br>
  </br>
 
 <b>Languages and Tools used: </b>
-
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -64,7 +59,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="JavaScript" width="40" height="40"/>&nbsp; 
+  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -73,15 +68,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 </div><br>
 
 <b>Team Collaborators: </b>
-
+  
+  <p>➤ Md Ashif Reza</p>
   <p>➤ Ritu Verma</p>
-  <p>➤ Saad Ansari </p> 
-  <p>➤ Md. Ashif Reza</p>
+  <p>➤ Saad Ansari </p>
   <p>➤ Kaustubh Sule</p>
-  <p>➤ Parvez Ahmed Ansari</p><br>
 
 <b>Project Components:</b><br>
-
 <!-- Main UI -->
 
 <b>➤ Main UI :</b> This window represents the main user interface of our web application.

@@ -53,17 +53,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 <b>Languages and Tools used: </b>
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=react" title="React" alt="React" />&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=redux" title="Redux" alt="Redux "/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=css"  title="CSS3" alt="CSS"/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=html" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=js" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=tailwind" title="TailwindCSS" alt="tailwindcss"/>&nbsp;
+  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="axios" width="100"/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=mongodb" title="MongoDB" alt="MongoDB"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=nodejs" title="NodeJS" alt="NodeJS" />&nbsp;
+  <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" title="ExpressJS" alt="ExpressJS" width="50" height="50"/>&nbsp;
 
 </div><br>
 

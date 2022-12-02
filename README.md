@@ -3,18 +3,18 @@
 </div>
 <div align="center">
 <h2>Hello ! <h2>
-  <p> Md Ashif Reza !</p> 
+  <p> Saad Ansari here !</p> 
 </div>
 
 <!-- Links to social profiles  -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/md-ashif-reza-55b217201//">
+  <a href="https://www.linkedin.com/in/saad-ansari-117013229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtu.be/Tnof6r5ZSyc">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/Ashif_rez">
+  <a href="https://twitter.com/saad_ansare">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

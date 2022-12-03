@@ -62,7 +62,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   <img src="https://skills.thijs.gg/icons?i=html" title="HTML5" alt="HTML"/>&nbsp;
   <img src="https://skills.thijs.gg/icons?i=js" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://skills.thijs.gg/icons?i=tailwind" title="TailwindCSS" alt="tailwindcss"/>&nbsp;
-  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="axios" width="100"/>&nbsp;
+  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="axios" width="100" height="50"/>&nbsp;
 </div><br>
 
 <b>Team Collaborators: </b>

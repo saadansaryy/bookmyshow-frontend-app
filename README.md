@@ -26,8 +26,8 @@ Clone the repository on your local machine with the command below in your termin
 <!-- Insert repo link below -->
 
 ```bash
-https://https://github.com/mdashifreza/BMSClient.git
-cd BMSClient
+https://github.com/saadansaryy/bookmyshow-frontend-app.git
+cd my-app
 ```
 
 Install dependencies (if you are using yarn then do with that)
@@ -43,10 +43,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
   <h2>Project Description</h2>
   <b>Project Name : BookMyShow </b>
-  <a href ="https://bookmyshow-project-frontend.vercel.app/"/>
+  <a href ="https://bookmyshow-project-frontend.vercel.app"/>
   Live Here
   </a>
   <br>
+  <b>API Documentation </b>
+  <a href ="https://documenter.getpostman.com/view/21949842/2s8YmSs1K2#503fe0a9-50d5-4f27-8feb-0dcda0e15345"/>
+  Click Here
+  </a>
   <br>
  </br>
 
@@ -67,10 +71,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 </div><br>
 
 <b>Team Collaborators: </b>
-
+  <p>➤ Saad Ansari </p>
   <p>➤ Md Ashif Reza</p>
   <p>➤ Ritu Verma</p>
-  <p>➤ Saad Ansari </p>
   <p>➤ Kaustubh Sule</p>
 
 <b>Project Components:</b><br>

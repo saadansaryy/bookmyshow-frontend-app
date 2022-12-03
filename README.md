@@ -3,22 +3,22 @@
 </div>
 <div align="center">
 <h2>Hello ! <h2>
-  <p>Saad Ansari here !</p> 
+  <p> Saad Ansari here !</p> 
 </div>
 
 <!-- Links to social profiles  -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kaustubh-sule-b46303229/">
+  <a href="https://www.linkedin.com/in/saad-ansari-117013229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://youtu.be/Tnof6r5ZSyc">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/KaustubhSule">
+  <a href="https://twitter.com/saad_ansare">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  
+
   ## Getting Started
 
 Clone the repository on your local machine with the command below in your terminal, and cd into the **my-app**
@@ -26,8 +26,7 @@ Clone the repository on your local machine with the command below in your termin
 <!-- Insert repo link below -->
 
 ```bash
-https://
-
+https://github.com/saadansaryy/bookmyshow-frontend-app.git
 cd my-app
 ```
 
@@ -44,7 +43,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
   <h2>Project Description</h2>
   <b>Project Name : BookMyShow </b>
-  <a href =" "/>
+  <a href ="https://bookmyshow-project-frontend.vercel.app"/>
   Live Here
   </a>
   <br>
@@ -56,32 +55,23 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
  </br>
 
 <b>Languages and Tools used: </b>
-
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-
+  <img src="https://skills.thijs.gg/icons?i=react" title="React" alt="React" />&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=redux" title="Redux" alt="Redux "/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=css"  title="CSS3" alt="CSS"/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=html" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=js" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://skills.thijs.gg/icons?i=tailwind" title="TailwindCSS" alt="tailwindcss"/>&nbsp;
+  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="axios" width="100"/>&nbsp;
 </div><br>
 
 <b>Team Collaborators: </b>
-
   <p>➤ Ritu Verma</p>
-  <p>➤ Saad Ansari </p> 
-  <p>➤ Md. Ashif Reza</p>
+  <p>➤ Saad Ansari </p>
+  <p>➤ Md Ashif Reza</p>
   <p>➤ Kaustubh Sule</p>
-  <p>➤ Parvez Ahmed Ansari</p><br>
 
 <b>Project Components:</b><br>
-
 <!-- Main UI -->
 
 <b>➤ Main UI :</b> This window represents the main user interface of our web application.

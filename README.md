@@ -71,9 +71,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 </div><br>
 
 <b>Team Collaborators: </b>
+  <p>➤ Ritu Verma</p>
   <p>➤ Saad Ansari </p>
   <p>➤ Md Ashif Reza</p>
-  <p>➤ Ritu Verma</p>
   <p>➤ Kaustubh Sule</p>
 
 <b>Project Components:</b><br>

@@ -82,7 +82,7 @@ const MovieDetails = () => {
     localStorage.setItem("movieInfo", JSON.stringify(movieInfo));
   };
 
-  // Endpoint:Fetch API GET request using async/await
+  // Endpoint:Fetch API GET request
   const getMovieData = () => {
     try {
       axios

@@ -5,18 +5,15 @@ import { Link } from "react-router-dom";
 import Swal from "sweetalert2";
 
 function SignIn() {
-  
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-
+  const url="https://bookmyshow-project-backend.vercel.app"
   //Redirect page towards Book that Show Ticket Booking App upon successful user sign-in
   const navigate = useNavigate();
-
-  
   //Endpoint:Fetch API POST request using async/await
   const SignInData = async (e) => {
     e.preventDefault();
-    const res = await fetch("https://bms-backend.onrender.com/users/signin", {
+    const res = await fetch(url+"/users/signin",{
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -26,7 +23,6 @@ function SignIn() {
         password: password,
       }),
     });
-    
     
     const data = await res.json();
     //Status Code:201 --> Successful user sign-in
@@ -40,14 +36,11 @@ function SignIn() {
     else if (data.errors) {
       Swal.fire("Oops..", `${data.errors[0].msg}!`, "error");
     } 
-    
      //Status Code:400  -->Incorrect password
     else {
       Swal.fire("Oops..", `${data.message}!`, "error");
     }
   };
-
-  
   //handle functions for Email and Password
   const handleEmail = (e) => {
     setEmail(e.target.value);
@@ -56,11 +49,9 @@ function SignIn() {
     setPassword(e.target.value);
   };
   
-  
   return (
     <>
       <div>
-        
         {/* main section of sign-in page */}
         <section className="h-screen">
           <div className="px-6 h-full text-gray-800">
@@ -78,11 +69,8 @@ function SignIn() {
               {/* Sign-in form */}
               <div className="xl:ml-20 xl:w-5/12 lg:w-5/12 md:w-8/12 mb-12 md:mb-0">
                 <form>
-                  <div className="flex flex-row items-center justify-center lg:justify-start">
-                    <p className="text-lg mb-0 mr-4">Sign in </p>
-                  </div>
                   <div className="flex items-center my-4 before:flex-1 before:border-t before:border-gray-300 before:mt-0.5 after:flex-1 after:border-t after:border-gray-300 after:mt-0.5">
-                    <p className="text-center font-semibold mx-4 mb-0"></p>
+                    <p className="text-center font-semibold mx-4 mb-0">Sign in</p>
                   </div>
 
                   {/* Enter user email */}
@@ -109,7 +97,7 @@ function SignIn() {
                   <div className="text-center lg:text-left">
                     <button
                       type="button"
-                      className="inline-block px-7 py-3 bg-blue-600 text-white font-medium text-sm leading-snug rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
+                      className="inline-block px-7 py-3 bg-blue-500 text-white font-medium text-sm leading-snug rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"
                       onClick={SignInData}
                     >
                       SIGN IN

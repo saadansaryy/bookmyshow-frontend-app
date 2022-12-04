@@ -19,7 +19,7 @@
   </a>
 </div>
 
-  ## Getting Started
+## Getting Started
 
 Clone the repository on your local machine with the command below in your terminal, and cd into the **my-app**
 
@@ -55,6 +55,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
  </br>
 
 <b>Languages and Tools used: </b>
+
  <div>
   <img src="https://skills.thijs.gg/icons?i=react" title="React" alt="React" />&nbsp;
   <img src="https://skills.thijs.gg/icons?i=redux" title="Redux" alt="Redux "/>&nbsp;
@@ -62,16 +63,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   <img src="https://skills.thijs.gg/icons?i=html" title="HTML5" alt="HTML"/>&nbsp;
   <img src="https://skills.thijs.gg/icons?i=js" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://skills.thijs.gg/icons?i=tailwind" title="TailwindCSS" alt="tailwindcss"/>&nbsp;
-  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="axios" width="100"/>&nbsp;
+  <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="axios" width="100" height="50"/>&nbsp;
 </div><br>
 
 <b>Team Collaborators: </b>
+
   <p>➤ Ritu Verma</p>
   <p>➤ Saad Ansari </p>
   <p>➤ Md Ashif Reza</p>
   <p>➤ Kaustubh Sule</p>
 
 <b>Project Components:</b><br>
+
 <!-- Main UI -->
 
 <b>➤ Main UI :</b> This window represents the main user interface of our web application.
